@@ -41,6 +41,8 @@ Best product management know-how
 
 ## Recruitment
 
+- favor interview conditions that are as close as possible to real-life tasks: i.e. similar to what the candidates used or will use to develop. [Avoid whiteboards...](https://medium.com/javascript-scene/tech-hiring-has-always-been-broken-heres-how-i-survived-it-for-decades-b7ac33088de6)
 - test candidates how well they know what they pretend to know rather than how well they know what the interviewer knows. This implies also testing the ability to explain and break down knowledge as clearly as possible for a novice audience.
+- Avoid questions expecting know-by-heart answers
 - favor technically good but balanced profiles over technically-strong candidates with weaker social skills. This is vital to create a team of people that will get along well with each other.
 - hide photos and names when selecting resumes to avoid any biases.
