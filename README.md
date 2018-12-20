@@ -4,14 +4,17 @@ Best product management know-how
 
 ## Product Development
 
-- as much as possible, follow a Kanban-like agile methodology to lower the pressure on individuals and the temptation to botch devlopments.
+- follow a Kanban-like agile methodology as much as possible, to lower the pressure on individuals and the temptation to botch devlopments. Do not be dogmatic about it.
 - prioritize as much as possible:
 
   > “People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying ‘no’ to 1,000 things.”
   >
   > \- Steve Jobs
 
-- be iterative as much as possible: each developoment should be broken down into tiny pieces that should be quick to implement and review.
+- be iterative as much as possible: each developoment should be broken down into tiny pieces that should be quick to implement and review. Use feature flag to help merging features sooner.
+- give rythm via scheduled, regular release where all committed developments are in.
+- spread key required developments across releases and plan those in advanced so that they are ready early in the release cycle.
+- make a Release Candidate before the finl release with a specific trial period that can't be reduced if tests coverage are not good.
 - must have:
   - do Code Reviews.
   - never test the main branch: enforce all tests and linting are passing before merging on the main branch.
