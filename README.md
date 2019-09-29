@@ -20,6 +20,11 @@ Best product management know-how
   - never test the main branch: enforce all tests and linting are passing before merging on the main branch.
   - have end-to-end tests and good unit/integration tests coverage.
   - deprecate anti patterns with linters as soon as they are spotted.
+- Developments should (from the least to the most complex):
+  - meet technical & functional requirements
+  - prevent regression via unit, integration and e2e tests
+  - design architecture and use patterns that ease support & extendability
+  - enfore design in the long term. Ex: separate packages to ensure code isolation
 
 ## UX
 
@@ -28,10 +33,13 @@ Best product management know-how
 
 ## Values
 
-- **the ability to speak freely, disagree with others’ opinions, and express one’s point of view** each correlates strongly with how innovative the company is. The more people can speak up, the more groundbreaking the company’s progress.
-- **the system must protect the individuals**.
+- **Challenge everything & inspire innovation through healthy discord**.
 
-  A bug introduced in the latest commit? this is because of a missing test. The tests were not run before merging the feature branch? A continuous integration build should be set up to prevent merging any branch without passing tests. An architecture anti-pattern has been committed? a linting rule should be set up to detect and prevent such pattern. Botching developments last minutes? review how planning. Developers staying late and swamped with work? this might be due to poor priorization or resource management. etc
+  The ability to speak freely, disagree with others’ opinions, and express one’s point of view each correlates strongly with how innovative the company is. The more people can speak up, the more groundbreaking the company’s progress.
+
+- **The system must protect the individuals**.
+
+  A bug introduced in the latest commit? this is because of a missing test. The tests were not run before merging the feature branch? A continuous integration build should be set up to prevent merging any branch without passing tests. An architecture anti-pattern has been committed? a linting rule should be set up to detect and prevent such pattern. Botching developments last minutes? review how planning is made. Developers staying late and swamped with work? this might be due to poor priorization or resource management. etc
 
   Think [poka-yoke](https://en.wikipedia.org/wiki/Poka-yoke).
 
@@ -40,12 +48,15 @@ Best product management know-how
 - meet with each individual of the team for 60 minutes every month with direct/honnest feedback from both sides. Take notes of each interview. This is probably the single most powerful tool available to improve people and processes and prioritize what to focus on next.
 - favor [the ability to speak up freely over anonymous feedback](https://www.fastcompany.com/40518499/my-company-is-killing-anonymous-employee-feedback-heres-why): "Anonymity reinforces the idea that it’s risky to speak up.". Cf [Values](#values).
 - organize post-mortem sessions on a regular basis to collectively share positive feedback and things to improve as well as ways to address those issues.
+- foster safe environment where individuals help and trust each other: stealing work to achieve a deadline faster, help on merging a development...
 - organize regular activities & outings with the team (bar, team lunch, climbing, bowling, laser tags...) sponsored or not to create a sense of camaraderie.
+- job sculpt when possible: adapt task to each individual's strengths and desires.
+- favor standard practices, patterns & tools as well as documentation for rapid & cheaper integration in a context of job hopping.
 
 ## Recruitment
 
 - favor interview conditions that are as close as possible to real-life tasks: i.e. similar to what the candidates used or will use to develop. [Avoid whiteboards...](https://medium.com/javascript-scene/tech-hiring-has-always-been-broken-heres-how-i-survived-it-for-decades-b7ac33088de6)
-- test candidates how well they know what they pretend to know rather than how well they know what the interviewer knows. This implies also testing the ability to explain and break down knowledge as clearly as possible for a novice audience.
+- test candidates on how well they know what they pretend to know rather than how well they know what the interviewer knows. This implies also testing the ability to explain and break down knowledge as clearly as possible for a novice audience.
 - Avoid questions expecting know-by-heart answers
 - favor technically good but balanced profiles over technically-strong candidates with weaker social skills. This is vital to create a team of people that will get along well with each other.
 - hide photos and names when selecting resumes to avoid any biases.
