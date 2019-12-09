@@ -56,7 +56,16 @@ Best product management know-how
 ## Recruitment
 
 - favor interview conditions that are as close as possible to real-life tasks: i.e. similar to what the candidates used or will use to develop. [Avoid whiteboards...](https://medium.com/javascript-scene/tech-hiring-has-always-been-broken-heres-how-i-survived-it-for-decades-b7ac33088de6)
-- test candidates on how well they know what they pretend to know rather than how well they know what the interviewer knows. This implies also testing the ability to explain and break down knowledge as clearly as possible for a novice audience.
-- Avoid questions expecting know-by-heart answers
-- favor technically good but balanced profiles over technically-strong candidates with weaker social skills. This is vital to create a team of people that will get along well with each other.
+- test candidates on how well they know what they pretend to know rather than how well they know what the interviewer knows. In other words, design the interview like a UX interview, with the end goal of testing how much candidates know their topics rather than asking questions to make the interviewer feel smart.
+  - if the the interviewer knows well the topic, then they will be able to ask for more detailed information.
+  - if the interviewer does not know the topic, then it will test the ability to explain and break down knowledge as clearly as possible for a novice audience.
+- avoid questions expecting know-by-heart answers.
+- favor technically good but balanced profiles over technically-strong candidates with weaker soft skills. This is vital to create a team of people that will get along well with each other. This means screening for ["soft skills" and "Emotional intelligence"](https://www.mindtheproduct.com/the-secret-sauce-to-hiring-great-product-people-by-kate-leto/) during interviews.
+  - Look for "emotional intelligence": i.e. “the ability to recognise understand and manage our own emotions” and “the ability to recognise understand and influence the emotions of others”.
+  - Include behavioral questions. Example: "Tell me about a time when you suggested something that someone disagreed with. What did you say? How did you handle the situation?"
 - hide photos and names when selecting resumes to avoid any biases.
+- job descriptions usually describe must-haves (usually hard skills) and nice-to-haves (usually soft skills). Instead, it should cover:
+  - Purpose – why does this role exist?
+  - Accountabilities – what outcomes is it responsible for?
+  - Activities – what are the tasks and responsibilities?
+  - Behaviours – the key capabilities of EQ
