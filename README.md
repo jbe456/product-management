@@ -20,7 +20,7 @@ Best product management know-how
   - never test the main branch: enforce all tests and linting are passing before merging on the main branch.
   - have end-to-end tests and good unit/integration tests coverage.
   - deprecate anti patterns with linters as soon as they are spotted.
-- Developments should (from the least to the most complex):
+- developments should (from the least to the most complex):
   - meet technical & functional requirements
   - prevent regression via unit, integration and e2e tests
   - design architecture and use patterns that ease support & extendability
@@ -52,6 +52,11 @@ Best product management know-how
 - organize regular activities & outings with the team (bar, team lunch, climbing, bowling, laser tags...) sponsored or not to create a sense of camaraderie.
 - job sculpt when possible: adapt task to each individual's strengths and desires.
 - favor standard practices, patterns & tools as well as documentation for rapid & cheaper integration in a context of job hopping.
+- provide transparency and document/share:
+  - Roadmap: each team member's priority dev for next cycle.
+  - Team's vacation and remote work.
+  - HR common's questions: rules for working remotely, time off, traveling, expense, paperwork, visas...
+  - Matrix skills detailing expected expertise and how to progress to the next level.
 
 ## Recruitment
 
