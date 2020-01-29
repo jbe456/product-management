@@ -45,7 +45,14 @@ Best product management know-how
 
 ## Team management
 
-- meet with each individual of the team for 60 minutes every month with direct/honnest feedback from both sides. Take notes of each interview. This is probably the single most powerful tool available to improve people and processes and prioritize what to focus on next.
+- meet with each individual of the team for 60 minutes every month or more with direct/honnest feedback from both sides.
+  - Take notes of each interview.
+  - Conduct "stay interview" on a regular basis to check in how they are feeling about the job with questions such as:
+    - "What motivates you to stay here?"
+    - "What might cause you to leave?"
+    - "Do you feel that you are challenged?"
+    - "What changes would you make to your job if you could?”
+  - This is probably the single most powerful tool available to improve people and processes and prioritize what to focus on next.
 - favor [the ability to speak up freely over anonymous feedback](https://www.fastcompany.com/40518499/my-company-is-killing-anonymous-employee-feedback-heres-why): "Anonymity reinforces the idea that it’s risky to speak up.". Cf [Values](#values).
 - organize post-mortem sessions on a regular basis to collectively share positive feedback and things to improve as well as ways to address those issues.
 - foster safe environment where individuals help and trust each other: stealing work to achieve a deadline faster, help on merging a development...
