@@ -30,6 +30,7 @@ Best product management know-how
 
 - a design session with written specifications must precede any written code
 - include users in your design sessions
+- [software UX interview guide template](software-ux-interview-guide.md)
 
 ## Values
 
