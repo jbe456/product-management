@@ -4,7 +4,7 @@ Best product management know-how
 
 ## General
 
-- prioritize as much as possible:
+- Prioritize as much as possible:
 
   > “People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying ‘no’ to 1,000 things.”
   >
@@ -15,14 +15,19 @@ Best product management know-how
 - Make contact with the real world early
 - Embrace failure as learning
 - Fall in love with the problem, not the solution
+- Be creative
+
+  > If at first the idea is not absurd, then there is no hope for it.
+  >
+  > \- Albert Einstein
 
 ## Product Development
 
-- follow a Kanban-like agile methodology as much as possible, to lower the pressure on individuals and the temptation to botch devlopments. Do not be dogmatic about it.
-- be iterative as much as possible: each developoment should be broken down into tiny pieces that should be quick to implement and review. Use feature flag to help merging features sooner.
+- follow a Kanban-like agile methodology as much as possible, to lower the pressure on individuals and the temptation to botch developments. Do not be dogmatic about it.
+- be iterative as much as possible: each development should be broken down into tiny pieces that should be quick to implement and review. Use feature flag to help merging features sooner.
 - give rythm via scheduled, regular release where all committed developments are in.
-- spread key required developments across releases and plan those in advanced so that they are ready early in the release cycle.
-- make a Release Candidate before the finl release with a specific trial period that can't be reduced if tests coverage are not good.
+- spread key required developments across releases and plan those in advance so that they are ready early in the release cycle.
+- make a Release Candidate before the final release with a specific trial period that can't be reduced if tests coverage are not good.
 - must have:
   - do Code Reviews.
   - never test the main branch: enforce all tests and linting are passing before merging on the main branch.
@@ -32,7 +37,7 @@ Best product management know-how
   - meet technical & functional requirements
   - prevent regression via unit, integration and e2e tests
   - design architecture and use patterns that ease support & extendability
-  - enfore design in the long term. Ex: separate packages to ensure code isolation
+  - enforce design in the long term. Ex: separate packages to ensure code isolation
 
 ## UX
 
@@ -70,7 +75,7 @@ Best product management know-how
 - organize regular activities & outings with the team (bar, team lunch, climbing, bowling, laser tags...) sponsored or not to create a sense of camaraderie.
 - job sculpt when possible: adapt task to each individual's strengths and desires.
 - favor standard practices, patterns & tools as well as documentation for rapid & cheaper integration in a context of job hopping.
-- provide transparency and document/share:
+- provide transparency and share/document:
   - Roadmap: each team member's priority dev for next cycle.
   - Team's vacation and remote work.
   - HR common's questions: rules for working remotely, time off, traveling, expense, paperwork, visas...
