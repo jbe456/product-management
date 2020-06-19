@@ -44,6 +44,8 @@ Best product management know-how
 - a design session with written specifications must precede any written code
 - include users in your design sessions
 - [software UX interview guide template](software-ux-interview-guide.md)
+- [Organizational Strategy Templates](http://www.drawtoast.com/templates.html)
+- Ideation methods: [Re-expression, Revolution, Random links](https://www.interaction-design.org/literature/article/three-ideation-methods-to-enhance-your-innovative-thinking)
 
 ## Values
 
