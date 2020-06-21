@@ -99,3 +99,8 @@ Best product management know-how
   - Accountabilities – what outcomes is it responsible for?
   - Activities – what are the tasks and responsibilities?
   - Behaviours – the key capabilities of EQ
+
+## Marketing
+
+- [VRIN score](https://www.kbbdigital.com.au/vrin-scoring-will-drive-successful-businesses-2020/)
+- [Economic MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp)
