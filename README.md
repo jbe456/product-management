@@ -2,6 +2,15 @@
 
 Best product management know-how
 
+1. [Vision](#vision)
+1. [Values](#values)
+1. [Strategy](#strategy)
+1. [Product Design](#product-design)
+1. [Analytical](#analytical)
+1. [Product Development](#product-development)
+1. [Team management](#team-management)
+1. [Recruitment](#recruitment)
+
 ## Vision
 
 - Prioritize as much as possible:
@@ -21,6 +30,45 @@ Best product management know-how
   >
   > \- Albert Einstein
 
+## Values
+
+- **Challenge everything & inspire innovation through healthy discord**.
+
+  The ability to speak freely, disagree with others’ opinions, and express one’s point of view each correlates strongly with how innovative the company is. The more people can speak up, the more groundbreaking the company’s progress.
+
+  Foster questions such as "What ifs" and "Why does it have to be this way". Fight against conventional ways of thinking and behaving.
+
+- **The system must protect the individuals**.
+
+  A bug introduced in the latest commit? this is because of a missing test. The tests were not run before merging the feature branch? A continuous integration build should be set up to prevent merging any branch without passing tests. An architecture anti-pattern has been committed? a linting rule should be set up to detect and prevent such pattern. Botching developments last minutes? review how planning is made. Developers staying late and swamped with work? this might be due to poor priorization or resource management. etc
+
+  Think [poka-yoke](https://en.wikipedia.org/wiki/Poka-yoke).
+
+## Strategy
+
+- [5 C's](https://marketbusinessnews.com/financial-glossary/five-cs/)
+- [SWOT Analysis](https://www.businessnewsdaily.com/4245-swot-analysis.html)
+- [Porter's Five Forces](https://www.mindtools.com/pages/article/newTMC_08.htm)
+- [VRIN score](https://www.kbbdigital.com.au/vrin-scoring-will-drive-successful-businesses-2020/)
+- [Economic MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp)
+
+## Product Design
+
+- a design session with written specifications must precede any written code
+- include users in your design sessions
+- [software UX interview guide template](software-ux-interview-guide.md)
+- frameworks:
+  - [CIRCLES](https://www.impactinterview.com/2016/06/circles-method-product-design-framework/)
+  - [BUS](https://uxplanet.org/the-bus-product-design-framework-4e9fb6f81bcf)
+  - [UDR](https://blog.tryexponent.com/less-linear-approach-circles-product-design/)
+  - [Organizational Strategy Templates](http://www.drawtoast.com/templates.html)
+  - Ideation methods: [Re-expression, Revolution, Random links](https://www.interaction-design.org/literature/article/three-ideation-methods-to-enhance-your-innovative-thinking)
+
+## Analytical
+
+- [HEART](https://www.interaction-design.org/literature/article/google-s-heart-framework-for-measuring-ux)
+- [GAME](https://hackernoon.com/metrics-game-framework-5e3dce1be8ac)
+
 ## Product Development
 
 - follow a Kanban-like agile methodology as much as possible, to lower the pressure on individuals and the temptation to botch developments. Do not be dogmatic about it.
@@ -38,32 +86,6 @@ Best product management know-how
   - prevent regression via unit, integration and e2e tests
   - design architecture and use patterns that ease support & extendability
   - enforce design in the long term. Ex: separate packages to ensure code isolation
-
-## Product Design
-
-- a design session with written specifications must precede any written code
-- include users in your design sessions
-- [software UX interview guide template](software-ux-interview-guide.md)
-- frameworks:
-  - [CIRCLES](https://www.impactinterview.com/2016/06/circles-method-product-design-framework/)
-  - [BUS](https://uxplanet.org/the-bus-product-design-framework-4e9fb6f81bcf)
-  - [UDR](https://blog.tryexponent.com/less-linear-approach-circles-product-design/)
-  - [Organizational Strategy Templates](http://www.drawtoast.com/templates.html)
-  - Ideation methods: [Re-expression, Revolution, Random links](https://www.interaction-design.org/literature/article/three-ideation-methods-to-enhance-your-innovative-thinking)
-
-## Values
-
-- **Challenge everything & inspire innovation through healthy discord**.
-
-  The ability to speak freely, disagree with others’ opinions, and express one’s point of view each correlates strongly with how innovative the company is. The more people can speak up, the more groundbreaking the company’s progress.
-
-  Foster questions such as "What ifs" and "Why does it have to be this way". Fight against conventional ways of thinking and behaving.
-
-- **The system must protect the individuals**.
-
-  A bug introduced in the latest commit? this is because of a missing test. The tests were not run before merging the feature branch? A continuous integration build should be set up to prevent merging any branch without passing tests. An architecture anti-pattern has been committed? a linting rule should be set up to detect and prevent such pattern. Botching developments last minutes? review how planning is made. Developers staying late and swamped with work? this might be due to poor priorization or resource management. etc
-
-  Think [poka-yoke](https://en.wikipedia.org/wiki/Poka-yoke).
 
 ## Team management
 
@@ -103,16 +125,3 @@ Best product management know-how
   - Accountabilities – what outcomes is it responsible for?
   - Activities – what are the tasks and responsibilities?
   - Behaviours – the key capabilities of EQ
-
-## Strategy
-
-- [5 C's](https://marketbusinessnews.com/financial-glossary/five-cs/)
-- [SWOT Analysis](https://www.businessnewsdaily.com/4245-swot-analysis.html)
-- [Porter's Five Forces](https://www.mindtools.com/pages/article/newTMC_08.htm)
-- [VRIN score](https://www.kbbdigital.com.au/vrin-scoring-will-drive-successful-businesses-2020/)
-- [Economic MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp)
-
-## Analytical
-
-- [HEART](https://www.interaction-design.org/literature/article/google-s-heart-framework-for-measuring-ux)
-- [GAME](https://hackernoon.com/metrics-game-framework-5e3dce1be8ac)
