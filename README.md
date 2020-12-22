@@ -2,7 +2,7 @@
 
 Best product management know-how
 
-## General
+## Vision
 
 - Prioritize as much as possible:
 
@@ -39,13 +39,17 @@ Best product management know-how
   - design architecture and use patterns that ease support & extendability
   - enforce design in the long term. Ex: separate packages to ensure code isolation
 
-## UX
+## Product Design
 
 - a design session with written specifications must precede any written code
 - include users in your design sessions
 - [software UX interview guide template](software-ux-interview-guide.md)
-- [Organizational Strategy Templates](http://www.drawtoast.com/templates.html)
-- Ideation methods: [Re-expression, Revolution, Random links](https://www.interaction-design.org/literature/article/three-ideation-methods-to-enhance-your-innovative-thinking)
+- frameworks:
+  - [CIRCLES](https://www.impactinterview.com/2016/06/circles-method-product-design-framework/)
+  - [BUS](https://uxplanet.org/the-bus-product-design-framework-4e9fb6f81bcf)
+  - [UDR](https://blog.tryexponent.com/less-linear-approach-circles-product-design/)
+  - [Organizational Strategy Templates](http://www.drawtoast.com/templates.html)
+  - Ideation methods: [Re-expression, Revolution, Random links](https://www.interaction-design.org/literature/article/three-ideation-methods-to-enhance-your-innovative-thinking)
 
 ## Values
 
@@ -100,7 +104,15 @@ Best product management know-how
   - Activities – what are the tasks and responsibilities?
   - Behaviours – the key capabilities of EQ
 
-## Marketing
+## Strategy
 
+- [5 C's](https://marketbusinessnews.com/financial-glossary/five-cs/)
+- [SWOT Analysis](https://www.businessnewsdaily.com/4245-swot-analysis.html)
+- [Porter's Five Forces](https://www.mindtools.com/pages/article/newTMC_08.htm)
 - [VRIN score](https://www.kbbdigital.com.au/vrin-scoring-will-drive-successful-businesses-2020/)
 - [Economic MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp)
+
+## Analytical
+
+- [HEART](https://www.interaction-design.org/literature/article/google-s-heart-framework-for-measuring-ux)
+- [GAME](https://hackernoon.com/metrics-game-framework-5e3dce1be8ac)
