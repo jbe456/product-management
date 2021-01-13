@@ -46,11 +46,24 @@ Best product management know-how
 
 ## Strategy
 
-- [5 C's](https://marketbusinessnews.com/financial-glossary/five-cs/)
-- [SWOT Analysis](https://www.businessnewsdaily.com/4245-swot-analysis.html)
+- 5 C's
+  - Company
+  - Collaborators
+  - Customers
+  - Competitors
+  - Climate (PEST: Political Economic Social Technological)
+- SWOT Analysis
+  - Strengths
+  - Weaknesses
+  - Opportunities
+  - Threats
 - [Porter's Five Forces](https://www.mindtools.com/pages/article/newTMC_08.htm)
 - [VRIN score](https://www.kbbdigital.com.au/vrin-scoring-will-drive-successful-businesses-2020/)
 - [Economic MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp)
+- Unique Selling Proposition
+  - What your brand does well
+  - What consumers want
+  - What your competitors do well
 
 ## Product Design
 
