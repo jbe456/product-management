@@ -46,20 +46,38 @@ Best product management know-how
 
 ## Strategy
 
+### Situation analysis
+
 - 5 C's
   - Company
-  - Collaborators
   - Customers
   - Competitors
-  - Climate (PEST: Political Economic Social Technological)
+  - Collaborators
+  - Climate: Political Economic Social/Cultural Technological Environmental Legal (PESTLE)
 - SWOT Analysis
   - Strengths
   - Weaknesses
   - Opportunities
   - Threats
-- [Porter's Five Forces](https://www.mindtools.com/pages/article/newTMC_08.htm)
-- [VRIN score](https://www.kbbdigital.com.au/vrin-scoring-will-drive-successful-businesses-2020/)
-- [Economic MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp)
+- Porter's Five Forces
+  - Competitive Rivalry
+  - Supplier Power
+  - Buyer Power
+  - Threat of Substitution
+  - Threat of New Entry
+
+### Competitive analysis
+
+- VRIN score
+  - Value: What is the perceived value of the product?
+  - Rarity: How innovative/different/unique is the product?
+  - Inimitable: How difficult is it to replicate the product?
+  - Non-substitutable: Can your customers not live without the product?
+- [Economic moat](https://www.cbinsights.com/research/report/business-moats-competitive-advantage)
+  - Network Effect moat: marketplace, data, platform
+  - Cost moat: cost advantage, sunk cost, switching cost
+  - Cultural moat: brand, tradition
+  - Resource moat: intellectual property, knowledge, regulatory
 - Unique Selling Proposition
   - What your brand does well
   - What consumers want
