@@ -70,6 +70,7 @@ Best product management know-how
 - a design session with written specifications must precede any written code
 - include users in your design sessions
 - [software UX interview guide template](software-ux-interview-guide.md)
+- [persona template](persona-template.md)
 - frameworks:
   - [CIRCLES](https://www.impactinterview.com/2016/06/circles-method-product-design-framework/)
   - [BUS](https://uxplanet.org/the-bus-product-design-framework-4e9fb6f81bcf)
