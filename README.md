@@ -87,19 +87,78 @@ Best product management know-how
 
 - a design session with written specifications must precede any written code
 - include users in your design sessions
+
+### Design Frameworks
+
+- [CIRCLES](https://www.impactinterview.com/2016/06/circles-method-product-design-framework/)
+  - Comprehend situation: what? Who? Why? How?
+  - Identify customer: personas
+  - Report customer needs: as XX, I want YY so that ZZ
+  - Cut through priorisation
+  - List solutions
+  - Evaluate trade offs
+  - Summarize recommendation
+- [BUS](https://uxplanet.org/the-bus-product-design-framework-4e9fb6f81bcf)
+- [UDR](https://blog.tryexponent.com/less-linear-approach-circles-product-design/)
+- [Organizational Strategy Templates](http://www.drawtoast.com/templates.html)
+- Ideation methods: [Re-expression, Revolution, Random links](https://www.interaction-design.org/literature/article/three-ideation-methods-to-enhance-your-innovative-thinking)
+
+### Priorization Frameworks
+
+- Value/Impact vs Complexity/Effort
+  - High impact & Low effort: quick wins
+  - High impact & High effort: major projects
+  - Low impact & Low effort: fill-ins
+  - Low impact & High effort: thankless tasks
+- Weighted Scoring
+- [RICE Scoring Model](https://www.productplan.com/glossary/rice-scoring-model/)
+  - Reach
+  - Impact
+  - Confidence
+  - Effort
+- Eisenhower Matrix
+  - Important & Urgent: Do
+  - Important & Not Urgent: Schedule
+  - Not Important & Urgent: Delegate
+  - Not Important & Nor Urgent: Delete
+- MoSCoW
+  - Must-have
+  - Should-have
+  - Could-have
+  - Will-not-have
+
+### Resources
+
 - [software UX interview guide template](software-ux-interview-guide.md)
 - [persona template](persona-template.md)
-- frameworks:
-  - [CIRCLES](https://www.impactinterview.com/2016/06/circles-method-product-design-framework/)
-  - [BUS](https://uxplanet.org/the-bus-product-design-framework-4e9fb6f81bcf)
-  - [UDR](https://blog.tryexponent.com/less-linear-approach-circles-product-design/)
-  - [Organizational Strategy Templates](http://www.drawtoast.com/templates.html)
-  - Ideation methods: [Re-expression, Revolution, Random links](https://www.interaction-design.org/literature/article/three-ideation-methods-to-enhance-your-innovative-thinking)
 
 ## Analytical
 
 - [HEART](https://www.interaction-design.org/literature/article/google-s-heart-framework-for-measuring-ux)
+  - Happiness
+  - Engagement
+  - Adoption
+  - Retention
+  - Task success
 - [GAME](https://hackernoon.com/metrics-game-framework-5e3dce1be8ac)
+  - Goals
+    - User goals
+    - Business goals
+  - Actions (AAARR)
+    - Acquisition
+    - Activation
+    - Retention
+    - Referral
+    - Revenue
+  - Metrics
+    - Direct vs Proxy
+    - Individual vs Aggregate
+    - Magnitude vs Ratio
+    - Intrinsic vs. Heuristic
+  - Evaluations
+    - Evaluating Metrics
+    - Evaluating Actions
+    - Evaluating Goals
 
 ## Product Development
 
@@ -140,6 +199,14 @@ Best product management know-how
   - Team's vacation and remote work.
   - HR common's questions: rules for working remotely, time off, traveling, expense, paperwork, visas...
   - Matrix skills detailing expected expertise and how to progress to the next level.
+
+### Frameworks
+
+- DACI
+  - Driver
+  - Approver
+  - Contributors
+  - Informed
 
 ## Recruitment
 
