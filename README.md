@@ -8,6 +8,8 @@ Best product management know-how
 1. [Product Design](#product-design)
 1. [Analytical](#analytical)
 1. [Product Development](#product-development)
+1. [Product Marketing](#product-marketing)
+1. [Product Sales](#product-sales)
 1. [Team management](#team-management)
 1. [Recruitment](#recruitment)
 
@@ -46,7 +48,7 @@ Best product management know-how
 
 ## Strategy
 
-### Situation analysis
+### Situation Analysis
 
 - 5 C's
   - Company
@@ -66,7 +68,7 @@ Best product management know-how
   - Threat of Substitution
   - Threat of New Entry
 
-### Competitive analysis
+### Competitive Analysis
 
 - VRIN score
   - Value: What is the perceived value of the product?
@@ -85,6 +87,8 @@ Best product management know-how
 
 ## Product Design
 
+- create [personas](persona-template.md)
+- perform [software UX interview](software-ux-interview-guide.md)
 - a design session with written specifications must precede any written code
 - include users in your design sessions
 
@@ -127,13 +131,9 @@ Best product management know-how
   - Could-have
   - Will-not-have
 
-### Resources
-
-- [software UX interview guide template](software-ux-interview-guide.md)
-- [persona template](persona-template.md)
-
 ## Analytical
 
+- Define metrics to evaluate progress and improve the product.
 - [HEART](https://www.interaction-design.org/literature/article/google-s-heart-framework-for-measuring-ux)
   - Happiness
   - Engagement
@@ -168,7 +168,7 @@ Best product management know-how
 - spread key required developments across releases and plan those in advance so that they are ready early in the release cycle.
 - make a Release Candidate before the final release with a specific trial period that can't be reduced if tests coverage are not good.
 - must have:
-  - do Code Reviews.
+  - do code reviews.
   - never test the main branch: enforce all tests and linting are passing before merging on the main branch.
   - have end-to-end tests and good unit/integration tests coverage.
   - deprecate anti patterns with linters as soon as they are spotted.
@@ -178,7 +178,39 @@ Best product management know-how
   - design architecture and use patterns that ease support & extendability
   - enforce design in the long term. Ex: separate packages to ensure code isolation
 
-## Team management
+## Product Marketing
+
+- create [personas](persona-template.md) and anti-personas (segmentation)
+- blog format templates
+  - The "How-To" Post
+  - The List-Based Post
+  - The "What Is" Post
+  - The Pillar Page Post
+  - The Newsjacking Post
+  - The Infographic Post
+  - The Interview Post
+- article introduction: grab the reader's attention in the first few paragraphs/sentences or they'll stop reading: tell a story or a joke, be empathetic, or grip the reader with an interesting fact or statistic.
+- article conclusion: insert a CTA that indicates what you want the reader to do next: subscribe to your blog, download an ebook, register for a webinar or event, read a related article...
+
+Then, describe the purpose of your post and explain how it will address a problem the reader may be experiencing.
+
+## Product Sales
+
+- create [personas](persona-template.md) and anti-personas (segmentation)
+- be a source of information for each persona, show that we are good at what we do
+- relationship mapping
+  - categorize contacts
+    - Influencers: Who has the most say on the future of your partnership?
+    - Users: Who actually use your product or service and how do you help them succeed?
+    - Leaders: Who are the Executives that have the power to raise concerns or put up roadblocks?
+    - Decision makers: Who controls the resources?
+    - Budget holders: Who has a financial stake?
+  - assess side
+    - Supporter: Who is on your side?
+    - Detractor: Who doesn’t like you and actively tells people?
+    - Champion: Who loves your company and sings your praises even when you’re not around? People that do the selling for you!
+
+## Team Management
 
 - meet with each individual of the team for 60 minutes every month or more with direct/honnest feedback from both sides.
   - Take notes of each interview.
@@ -200,7 +232,7 @@ Best product management know-how
   - HR common's questions: rules for working remotely, time off, traveling, expense, paperwork, visas...
   - Matrix skills detailing expected expertise and how to progress to the next level.
 
-### Frameworks
+### Decision Making Frameworks
 
 - DACI
   - Driver
