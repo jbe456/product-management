@@ -85,6 +85,21 @@ Best product management know-how
   - What consumers want
   - What your competitors do well
 
+### Innovation Analysis
+
+- Innovation Adoption Life-Cycle
+  - Innovators 2.5%
+  - Early adopters 13.5%
+  - Early majority 34.0%
+  - Late majority 34.0%
+  - Laggards 16.0%
+- Innovator's dilemma: established companies' resources, processes & values are incompatible with disruptive technologies (new market, new customers, less margins).
+- Windermere Buying Hierarchy
+  - Functionality: Range of Features, Intensity of Attribute, Appropriateness for Usage
+  - Reliability: Longevity of performance, Trust in supplier, Availability of support
+  - Convenience: Ease of Use, Accessibility of Product, Simplicity of Appropriation
+  - Cost: Financial Costs, Physical Costs, Intangible Costs
+
 ## Product Design
 
 - create [personas](persona-template.md)
@@ -189,10 +204,8 @@ Best product management know-how
   - The Newsjacking Post
   - The Infographic Post
   - The Interview Post
-- article introduction: grab the reader's attention in the first few paragraphs/sentences or they'll stop reading: tell a story or a joke, be empathetic, or grip the reader with an interesting fact or statistic.
+- article introduction: grab the reader's attention in the first few paragraphs/sentences or they'll stop reading: tell a story or a joke, be empathetic, or grip the reader with an interesting fact or statistic. Then, describe the purpose of your post and explain how it will address a problem the reader may be experiencing.
 - article conclusion: insert a CTA that indicates what you want the reader to do next: subscribe to your blog, download an ebook, register for a webinar or event, read a related article...
-
-Then, describe the purpose of your post and explain how it will address a problem the reader may be experiencing.
 
 ## Product Sales
 
