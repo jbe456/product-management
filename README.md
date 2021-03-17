@@ -206,6 +206,28 @@ Best product management know-how
   - The Interview Post
 - article introduction: grab the reader's attention in the first few paragraphs/sentences or they'll stop reading: tell a story or a joke, be empathetic, or grip the reader with an interesting fact or statistic. Then, describe the purpose of your post and explain how it will address a problem the reader may be experiencing.
 - article conclusion: insert a CTA that indicates what you want the reader to do next: subscribe to your blog, download an ebook, register for a webinar or event, read a related article...
+- [Storybrand framework](https://www.presentation-guru.com/the-most-successful-presentations-use-this-framework/):
+  - A character
+    - Who are you talking to? Customer/audience
+    - What are their objectives?
+  - ...has a problem
+    - Villain: the thing or idea you and your customer/audience are fighting.
+    - External: What the problem actually is
+    - Internal: How does this problem make your audience feel?
+    - Philosophical: Why is this problem bad?
+  - ...and meets a guide
+    - Empathy: Show that you understand the internal problem and frustrations of the character
+    - Authority: Demonstrate why you should be the one to show them the way.
+  - ...who gives them a plan
+    - Process: Lay out 3-5 steps towards final goal.
+    - Agreement: Show your audience that your path is safe and resolve fears.
+  - ...and calls them to action
+    - Direct CTA: CTAs are memorable, give the audience an instant win and therefore bolster the speaker’s authority.
+    - Transitional CTA: Lead magnet. Think "Marry me or date me".
+  - ...that ends in success
+    - How will the world look in the future if the audience does everything you say? Great for motivating.
+  - ...and avoids failure.
+    - State what the stakes are and what might happen if nothing is done. Using this in an introduction can be a powerful motivator for the audience to listen to the rest of the speech.
 
 ## Product Sales
 
