@@ -84,6 +84,7 @@ Best product management know-how
   - What your brand does well
   - What consumers want
   - What your competitors do well
+- [Behavior = Motivation + Prompts + Ability](https://behaviormodel.org/)
 
 ### Innovation Analysis
 
@@ -291,3 +292,8 @@ Best product management know-how
   - Accountabilities – what outcomes is it responsible for?
   - Activities – what are the tasks and responsibilities?
   - Behaviours – the key capabilities of EQ
+- [Ofman Quadrant](https://dyonhoekstra.weebly.com/daniel-ofmans-model-of-core-quadrants.html):
+  - Quality
+  - Pitfall
+  - Allergy
+  - Challenge
