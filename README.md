@@ -101,6 +101,17 @@ Best product management know-how
   - Convenience: Ease of Use, Accessibility of Product, Simplicity of Appropriation
   - Cost: Financial Costs, Physical Costs, Intangible Costs
 
+### Change Management
+
+- Kübler-Ross model: denial, anger, bargaining, depression, and acceptance.
+- [Emotion wheel](https://humansystems.co/emotionwheels/)
+- [ADKAR model](https://www.prosci.com/methodology/adkar):
+  - Awareness of the need for change
+  - Desire to participate and support the change
+  - Knowledge on how to changer
+  - Ability to implement the desired skills & behaviors
+  - Reinforcement to sustain the change
+
 ## Product Design
 
 - create [personas](persona-template.md)
